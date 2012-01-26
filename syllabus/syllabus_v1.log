@@ -1,0 +1,103 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2008.12.28)  24 JAN 2012 16:45
+entering extended mode
+\write18 enabled.
+ %&-line parsing enabled.
+**syllabus_v1.tex
+(./syllabus_v1.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./syllabus_v1.aux)
+\openout1 = `syllabus_v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+ [1
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 60.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+ [3]
+Overfull \hbox (4.21767pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 (a) Write an in-dexer us-ing the in-verted in-dex method. In-
+dex the Wikipedia
+ []
+
+[4]
+Overfull \hbox (5.91548pt too wide) in paragraph at lines 166--167
+ \OT1/cmr/bx/n/12 Week 09[] \OT1/cmr/m/n/12 : Spring Break. I will be at Sun-Be
+lt run-ning a Big Data hackathon.
+ []
+
+[5] [6] [7] (./syllabus_v1.aux) ) 
+Here is how much of TeX's memory you used:
+ 252 strings out of 493876
+ 2906 string characters out of 1150567
+ 51901 words of memory out of 3000000
+ 3599 multiletter control sequences out of 10000+50000
+ 8808 words of font info for 31 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 23i,8n,19p,591b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type
+1/bluesky/cm/cmbx12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmmi12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10
+.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr
+/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></usr/local/tex
+live/2008/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></usr/local/texlive/2008/t
+exmf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/f
+onts/type1/bluesky/cm/cmsy10.pfb>
+Output written on syllabus_v1.pdf (7 pages, 62682 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
