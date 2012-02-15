@@ -28,7 +28,7 @@ for line in f_in:
 
 ### next step :: instead of randomly choosing a word, choose one based on frequency of usage
 ### i.e. the goal is to write a nonsense-generator that sounds like Shakespeare.            
-word="must"
+word="the"
 while True:
     print word,
     next=bigram_index[word]

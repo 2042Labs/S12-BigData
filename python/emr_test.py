@@ -11,7 +11,8 @@ step = StreamingStep(name='My wordcount example',
                       mapper='s3n://css739/wordcount/bigramSplitter.py',
                       reducer='aggregate',
                       input='s3n://smalldata/wikipedia_titles.txt',
-                      output='s3n://css739/wordcount/bigram_count_output')
+                      output='s3n://css739/wordcount/bigram_count_output2',
+                      cache_files=['s3n://css739/wordcount/english_stoplist.py'])
                       
                       
 jobid = conn.run_jobflow(name='My jobflow', log_uri='s3n://css739/wordcount/jobflow_logs',steps=[step])
