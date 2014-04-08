@@ -13,8 +13,8 @@ from boto.emr.connection import EmrConnection
 from boto.emr.step import StreamingStep
 import boto
 
-AWS_KEY='AKIAIQ7VG4UORIN75ZSA'
-AWS_SECRET='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'
+AWS_KEY=''
+AWS_SECRET=''
 
 conn = boto.connect_dynamodb(
         aws_access_key_id=AWS_KEY,
